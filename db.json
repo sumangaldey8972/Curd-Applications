@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Rubai",
+      "username": "Rubai",
+      "email": "rubai@gmail.com",
+      "phone": "6666-3333-12",
+      "website": "manik.com",
+      "id": 12
+    },
+    {
+      "name": "Rittu",
+      "username": "rittu",
+      "email": "rittu@gmail.com",
+      "phone": "4444-5555-12",
+      "website": "ritttu.com",
+      "id": 13
+    },
+    {
+      "name": "Sumangal Dey",
+      "username": "dey@9876",
+      "email": "sd@gmail.com",
+      "phone": "7777-4444-33",
+      "website": "suman.com",
+      "id": 14
+    }
+  ]
+}
